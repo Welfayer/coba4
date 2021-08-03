@@ -222,6 +222,12 @@ body {
   margin: 10px 0 0;
 }
 
+.wish h6{
+   font-weight: lighter;
+  font-size: 2rem;
+  margin: 12px 0 0;
+}
+
 .nine p {
   font-size: 2rem;
   font-weight: lighter;
@@ -290,6 +296,10 @@ body {
 
   .wish h5 {
     font-size: 1.4rem;
+  }
+  
+  .wish h6{
+    font-size: 1.2rem;
   }
 
   .nine p {
